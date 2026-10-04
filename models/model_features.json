@@ -1,0 +1,14 @@
+[
+    "population_3km",
+    "household_income_proxy",
+    "footfall_estimate_index",
+    "competitor_presence_3km",
+    "rental_cost_rs_sqft_month",
+    "accessibility_index",
+    "existing_tanishq_stores_3km",
+    "existing_mia_stores_3km",
+    "existing_zoya_stores_3km",
+    "customer_spending_index",
+    "network_gap_index",
+    "cannibalisation_risk_index"
+]

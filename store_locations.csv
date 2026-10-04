@@ -1,0 +1,114 @@
+store_id,brand,network_type,store_name,address_area,latitude,longitude,record_type
+TQ001,Tanishq,Tanishq,Mumbai - Andheri Vastu Prestige,"New Link Road, Andheri West",19.1364,72.8296,store
+TQ002,Tanishq,Tanishq,Mumbai - Andheri SV Road,"Irla, Andheri West",19.1272,72.8376,store
+TQ003,Tanishq,Tanishq,Mumbai - Borivali,"L.T. Road, Borivali West",19.2307,72.8567,store
+TQ004,Tanishq,Tanishq,Mumbai - Ghatkopar MG Road,"MG Road, Ghatkopar East",19.086,72.9081,store
+TQ005,Tanishq,Tanishq,Mumbai - Oberoi,"Oberoi Mall, Goregaon East",19.173,72.86,store
+TQ006,Tanishq,Tanishq,Mumbai - Linking Road,"Linking Road, Santacruz West",19.071,72.835,store
+TQ007,Tanishq,Tanishq,Mumbai - Airport Terminal 2,"CSMIA Terminal 2, Andheri East",19.099,72.8746,store
+TQ008,Tanishq,Tanishq,Mumbai - Mulund West,"LBS Road, Mulund West",19.172,72.956,store
+TQ009,Tanishq,Tanishq,Mumbai - Matunga,"Bhandarkar Road, Matunga",19.027,72.856,store
+TQ010,Tanishq,Tanishq,Mumbai - Powai,"Central Avenue, Hiranandani Gardens",19.1176,72.906,store
+MIA001,Mia,Tanishq Group,Mumbai - Lower Parel,"Grand Galleria, High Street Phoenix",18.994,72.8258,store
+MIA002,Mia,Tanishq Group,Mumbai - Malad,"Inorbit Mall, Malad",19.184,72.834,store
+MIA003,Mia,Tanishq Group,Mumbai - Infinity Malad,"Infiniti Mall, Malad West",19.14,72.833,store
+MIA004,Mia,Tanishq Group,Mumbai - Borivali LT Road,"IT Road, Borivali West",19.23,72.856,store
+MIA005,Mia,Tanishq Group,Mumbai - Mulund,"Runwal Anthurium, LBS Marg",19.172,72.956,store
+MIA006,Mia,Tanishq Group,Mumbai - Powai,"Galleria Shopping Center, Hiranandani Gardens",19.1176,72.906,store
+MIA007,Mia,Tanishq Group,Mumbai - Kurla,"Phoenix Marketcity, Kurla",19.086,72.889,store
+MIA008,Mia,Tanishq Group,"Mumbai - Oberoi Mall, Goregaon","Oberoi Mall, Goregaon",19.173,72.86,store
+MIA009,Mia,Tanishq Group,"Mumbai - Sky City, Borivali","Sky City Mall, Borivali East",19.228,72.868,store
+MIA010,Mia,Tanishq Group,Mumbai - Seawoods,"Seawoods Grand Central Mall, Navi Mumbai",19.021,73.018,store
+ZOY001,Zoya,Tanishq Group,Mumbai - Khar,Khar West,19.068,72.836,store
+ZOY002,Zoya,Tanishq Group,Mumbai - Lower Parel,High Street Phoenix / Lower Parel,18.994,72.8258,store
+ZOY003,Zoya,Tanishq Group,Mumbai - Fort / Kala Ghoda,"Kala Ghoda, Fort",18.927,72.832,store
+KAL001,Kalyan Jewellers,Competitor,Vashi,"Sector 17, Vashi",19.066,73.0,store
+KAL002,Kalyan Jewellers,Competitor,Kurla,Phoenix Marketcity / Kurla,19.086,72.889,store
+KAL003,Kalyan Jewellers,Competitor,Mulund,Mulund West,19.172,72.956,store
+KAL004,Kalyan Jewellers,Competitor,Bandra,Bandra West,19.06,72.836,store
+KAL005,Kalyan Jewellers,Competitor,Kalyan,Kalyan West,19.244,73.135,store
+KAL006,Kalyan Jewellers,Competitor,Thane,"Shivaji Road, Thane West",19.218,72.978,store
+KAL007,Kalyan Jewellers,Competitor,Ghatkopar,"Jawahar Road, Ghatkopar East",19.086,72.908,store
+KAL008,Kalyan Jewellers,Competitor,Andheri,"New Link Road, Andheri West",19.136,72.829,store
+KAL009,Kalyan Jewellers,Competitor,Lower Parel,High Street Phoenix,18.994,72.826,store
+KAL010,Kalyan Jewellers,Competitor,Matunga,Matunga,19.027,72.856,store
+MAL001,Malabar Gold & Diamonds,Competitor,Andheri West,Andheri West,19.136,72.829,store
+MAL002,Malabar Gold & Diamonds,Competitor,Lower Parel,Lower Parel,18.995,72.826,store
+MAL003,Malabar Gold & Diamonds,Competitor,Ghatkopar,Ghatkopar,19.086,72.908,store
+SEN001,Senco Gold & Diamonds,Competitor,Andheri West,Andheri West,19.136,72.829,store
+SEN002,Senco Gold & Diamonds,Competitor,Borivali,Borivali,19.231,72.857,store
+PNG001,PNG Jewellers,Competitor,Dadar,Dadar,19.018,72.844,store
+PNG002,PNG Jewellers,Competitor,Vile Parle East,Vile Parle East,19.098,72.847,store
+JOY001,Joyalukkas,Competitor,Andheri,Andheri,19.136,72.829,store
+JOY002,Joyalukkas,Competitor,Borivali,Borivali,19.231,72.857,store
+TBZ001,TBZ,Competitor,Fort,Fort,18.932,72.835,store
+TBZ002,TBZ,Competitor,Bandra,Bandra West,19.06,72.836,store
+REL001,Reliance Jewels,Competitor,Lower Parel,Lower Parel,18.995,72.826,store
+REL002,Reliance Jewels,Competitor,Ghatkopar,Ghatkopar,19.086,72.908,store
+CAR001,CaratLane,Competitor,Andheri West,Andheri West,19.136,72.829,store
+CAR002,CaratLane,Competitor,Lower Parel,Lower Parel,18.995,72.826,store
+CAR003,CaratLane,Competitor,Powai,Powai,19.118,72.906,store
+CAR004,CaratLane,Competitor,Ghatkopar,Ghatkopar,19.086,72.908,store
+CAR005,CaratLane,Competitor,Malad,Malad,19.184,72.834,store
+CAR006,CaratLane,Competitor,Bandra,Bandra,19.06,72.836,store
+BLU001,BlueStone,Competitor,Andheri West,Andheri West,19.136,72.829,store
+BLU002,BlueStone,Competitor,Bandra,Bandra,19.06,72.836,store
+BLU003,BlueStone,Competitor,Malad,Malad,19.184,72.834,store
+BLU004,BlueStone,Competitor,Inorbit Mall,"Inorbit Mall, Malad West",19.184,72.834,store
+BLU005,BlueStone,Competitor,R City Mall,"R City Mall, Ghatkopar West",19.099,72.916,store
+BLU006,BlueStone,Competitor,Infiniti Malad,"Infiniti Mall, Malad West",19.14,72.833,store
+BLU007,BlueStone,Competitor,Andheri Link Road,"Golden Chambers, Andheri West",19.136,72.829,store
+BLU008,BlueStone,Competitor,Turner Road,"Turner Road, Bandra",19.06,72.829,store
+BLU009,BlueStone,Competitor,Oberoi Mall,"Oberoi Mall, Goregaon East",19.173,72.86,store
+BLU010,BlueStone,Competitor,LBS Road Mulund,"Runwal Anthurium, Mulund West",19.172,72.956,store
+MAL_REF01,Malabar Gold & Diamonds,Competitor,Malabar Gold & Diamonds - Colaba market reference,Colaba,18.922,72.833,market_reference
+MAL_REF02,Malabar Gold & Diamonds,Competitor,Malabar Gold & Diamonds - Fort market reference,Fort,18.932,72.835,market_reference
+MAL_REF03,Malabar Gold & Diamonds,Competitor,Malabar Gold & Diamonds - Churchgate market reference,Churchgate,18.932,72.826,market_reference
+MAL_REF04,Malabar Gold & Diamonds,Competitor,Malabar Gold & Diamonds - Worli market reference,Worli,19.017,72.817,market_reference
+MAL_REF05,Malabar Gold & Diamonds,Competitor,Malabar Gold & Diamonds - Prabhadevi market reference,Prabhadevi,19.016,72.829,market_reference
+MAL_REF06,Malabar Gold & Diamonds,Competitor,Malabar Gold & Diamonds - Dadar market reference,Dadar,19.018,72.844,market_reference
+MAL_REF07,Malabar Gold & Diamonds,Competitor,Malabar Gold & Diamonds - Matunga market reference,Matunga,19.027,72.856,market_reference
+SEN_REF01,Senco Gold & Diamonds,Competitor,Senco Gold & Diamonds - Colaba market reference,Colaba,18.922,72.833,market_reference
+SEN_REF02,Senco Gold & Diamonds,Competitor,Senco Gold & Diamonds - Fort market reference,Fort,18.932,72.835,market_reference
+SEN_REF03,Senco Gold & Diamonds,Competitor,Senco Gold & Diamonds - Churchgate market reference,Churchgate,18.932,72.826,market_reference
+SEN_REF04,Senco Gold & Diamonds,Competitor,Senco Gold & Diamonds - Lower Parel market reference,Lower Parel,18.994,72.826,market_reference
+SEN_REF05,Senco Gold & Diamonds,Competitor,Senco Gold & Diamonds - Worli market reference,Worli,19.017,72.817,market_reference
+SEN_REF06,Senco Gold & Diamonds,Competitor,Senco Gold & Diamonds - Prabhadevi market reference,Prabhadevi,19.016,72.829,market_reference
+SEN_REF07,Senco Gold & Diamonds,Competitor,Senco Gold & Diamonds - Dadar market reference,Dadar,19.018,72.844,market_reference
+SEN_REF08,Senco Gold & Diamonds,Competitor,Senco Gold & Diamonds - Matunga market reference,Matunga,19.027,72.856,market_reference
+PNG_REF01,PNG Jewellers,Competitor,PNG Jewellers - Colaba market reference,Colaba,18.922,72.833,market_reference
+PNG_REF02,PNG Jewellers,Competitor,PNG Jewellers - Fort market reference,Fort,18.932,72.835,market_reference
+PNG_REF03,PNG Jewellers,Competitor,PNG Jewellers - Churchgate market reference,Churchgate,18.932,72.826,market_reference
+PNG_REF04,PNG Jewellers,Competitor,PNG Jewellers - Lower Parel market reference,Lower Parel,18.994,72.826,market_reference
+PNG_REF05,PNG Jewellers,Competitor,PNG Jewellers - Worli market reference,Worli,19.017,72.817,market_reference
+PNG_REF06,PNG Jewellers,Competitor,PNG Jewellers - Prabhadevi market reference,Prabhadevi,19.016,72.829,market_reference
+PNG_REF07,PNG Jewellers,Competitor,PNG Jewellers - Matunga market reference,Matunga,19.027,72.856,market_reference
+PNG_REF08,PNG Jewellers,Competitor,PNG Jewellers - Mahim market reference,Mahim,19.042,72.84,market_reference
+JOY_REF01,Joyalukkas,Competitor,Joyalukkas - Colaba market reference,Colaba,18.922,72.833,market_reference
+JOY_REF02,Joyalukkas,Competitor,Joyalukkas - Fort market reference,Fort,18.932,72.835,market_reference
+JOY_REF03,Joyalukkas,Competitor,Joyalukkas - Churchgate market reference,Churchgate,18.932,72.826,market_reference
+JOY_REF04,Joyalukkas,Competitor,Joyalukkas - Lower Parel market reference,Lower Parel,18.994,72.826,market_reference
+JOY_REF05,Joyalukkas,Competitor,Joyalukkas - Worli market reference,Worli,19.017,72.817,market_reference
+JOY_REF06,Joyalukkas,Competitor,Joyalukkas - Prabhadevi market reference,Prabhadevi,19.016,72.829,market_reference
+JOY_REF07,Joyalukkas,Competitor,Joyalukkas - Dadar market reference,Dadar,19.018,72.844,market_reference
+JOY_REF08,Joyalukkas,Competitor,Joyalukkas - Matunga market reference,Matunga,19.027,72.856,market_reference
+TBZ_REF01,TBZ,Competitor,TBZ - Colaba market reference,Colaba,18.922,72.833,market_reference
+TBZ_REF02,TBZ,Competitor,TBZ - Churchgate market reference,Churchgate,18.932,72.826,market_reference
+TBZ_REF03,TBZ,Competitor,TBZ - Lower Parel market reference,Lower Parel,18.994,72.826,market_reference
+TBZ_REF04,TBZ,Competitor,TBZ - Worli market reference,Worli,19.017,72.817,market_reference
+TBZ_REF05,TBZ,Competitor,TBZ - Prabhadevi market reference,Prabhadevi,19.016,72.829,market_reference
+TBZ_REF06,TBZ,Competitor,TBZ - Dadar market reference,Dadar,19.018,72.844,market_reference
+TBZ_REF07,TBZ,Competitor,TBZ - Matunga market reference,Matunga,19.027,72.856,market_reference
+TBZ_REF08,TBZ,Competitor,TBZ - Mahim market reference,Mahim,19.042,72.84,market_reference
+REL_REF01,Reliance Jewels,Competitor,Reliance Jewels - Colaba market reference,Colaba,18.922,72.833,market_reference
+REL_REF02,Reliance Jewels,Competitor,Reliance Jewels - Fort market reference,Fort,18.932,72.835,market_reference
+REL_REF03,Reliance Jewels,Competitor,Reliance Jewels - Churchgate market reference,Churchgate,18.932,72.826,market_reference
+REL_REF04,Reliance Jewels,Competitor,Reliance Jewels - Worli market reference,Worli,19.017,72.817,market_reference
+REL_REF05,Reliance Jewels,Competitor,Reliance Jewels - Prabhadevi market reference,Prabhadevi,19.016,72.829,market_reference
+REL_REF06,Reliance Jewels,Competitor,Reliance Jewels - Dadar market reference,Dadar,19.018,72.844,market_reference
+REL_REF07,Reliance Jewels,Competitor,Reliance Jewels - Matunga market reference,Matunga,19.027,72.856,market_reference
+REL_REF08,Reliance Jewels,Competitor,Reliance Jewels - Mahim market reference,Mahim,19.042,72.84,market_reference
+CAR_REF01,CaratLane,Competitor,CaratLane - Colaba market reference,Colaba,18.922,72.833,market_reference
+CAR_REF02,CaratLane,Competitor,CaratLane - Fort market reference,Fort,18.932,72.835,market_reference
+CAR_REF03,CaratLane,Competitor,CaratLane - Churchgate market reference,Churchgate,18.932,72.826,market_reference
+CAR_REF04,CaratLane,Competitor,CaratLane - Worli market reference,Worli,19.017,72.817,market_reference
